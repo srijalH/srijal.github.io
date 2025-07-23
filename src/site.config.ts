@@ -53,12 +53,12 @@ export const socialLinks: Array<{
   {
     name: "teenyicons:github-outline",
     friendlyName: "Github",
-    link: "https://github.com/srijalshrestha",
+    link: "https://github.com/srijalh",
   },
   {
     name: "teenyicons:linkedin-outline",
     friendlyName: "LinkedIn",
-    link: "https://www.linkedin.com/in/srijalshrestha/",
+    link: "https://www.linkedin.com/in/srijalh/",
   },
   {
     name: "teenyicons:envelope-outline",

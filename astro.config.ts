@@ -54,7 +54,7 @@ const expressiveCodeOptions: AstroExpressiveCodeOptions = {
 // https://astro.build/config
 export default defineConfig({
   // ! Please remember to replace the following site property with your own domain
-  site: "https://srijalshrestha.github.io",
+  site: "https://srijalh.github.io",
   markdown: {
     remarkPlugins: [remarkUnwrapImages, remarkReadingTime, remarkDirective, remarkAdmonitions],
     rehypePlugins: [
