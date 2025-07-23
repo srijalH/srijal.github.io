@@ -1,3 +1,2 @@
-# Srijal Shrestha — Official Website
-
-This is the official website and blog of Srijal Shrestha. Built with Astro and deployed to GitHub Pages.
+# Static Blog Website
+This is my website for uploading blogs and whatnot. its static website built with idea of minimalism using astro.
